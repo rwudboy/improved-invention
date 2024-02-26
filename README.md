@@ -1,1 +1,7 @@
 # improved-invention
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x89e99BF0D869b6Ee6e4FF53EC098aA0B297fC85b'
+quorum: 1
